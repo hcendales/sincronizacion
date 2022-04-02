@@ -1,4 +1,5 @@
 prompt
+prompt
 prompt PL/SQL Developer Export User Objects for user SINCRONIZACION@XE
 prompt Created by hugo_ on viernes, 1 de abril de 2022
 set define off
